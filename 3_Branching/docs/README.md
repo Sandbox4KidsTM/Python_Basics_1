@@ -190,3 +190,12 @@ else:
 
 ### Disclaimer
 `if` statements are very useful and will certainly be a part of almost all of our programs, however they can be overused. Be careful to avoid huge nested `if` statements (`if` statements in `if` statements) as it can make a program very hard to understand, to change, and to debug. We will see other programming patterns later that can help avoid these huge structures.
+
+### Challenge
+1. Write a program that simulates ordering a meal at In-N-Out.
+First ask the user if they want a hamburger or a cheeseburger.
+A hamberger costs 3.25, and a cheeseburger costs 4.10.
+Then ask if they want fries. Fries cost 2.45
+Ask if they want a strawberry or vanilla shake.
+Strawberrys cost 3.75. Vanilla costs 3.00.
+Give them their total cost.
